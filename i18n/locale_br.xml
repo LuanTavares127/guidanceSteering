@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <locale>br</locale>
+    <texts>
+        <text name="input_GS_AXIS_REALIGN" text="GS: Realinhar a trilha">
+            <!--Todo: add missing translation for input_GS_AXIS_REALIGN--></text>
+        <text name="guidanceSteering_setting_cardinals" text="Ponto cardeal">
+            <!--Todo: add missing translation for guidanceSteering_setting_cardinals--></text>
+        <text name="guidanceSteering_headland_mode_1" text="Parar">
+            <!--Todo: add missing translation for guidanceSteering_headland_mode_1--></text>
+        <text name="guidanceSteering_tooltip_currentTrack" text="Selecione a trilha atual para usar">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_currentTrack--></text>
+        <text name="input_GS_ROTATE_TRACK" text="GS: Rotacionar trilha">
+            <!--Todo: add missing translation for input_GS_ROTATE_TRACK--></text>
+        <text name="guidanceSteering_setting_pointA" text="Definir A">
+            <!--Todo: add missing translation for guidanceSteering_setting_pointA--></text>
+        <text name="guidanceSteering_setting_header_headland" text="Gestão de cabeceiras">
+            <!--Todo: add missing translation for guidanceSteering_setting_header_headland--></text>
+        <text name="input_GS_SET_AUTO_WIDTH" text="GS: Largura automática">
+            <!--Todo: add missing translation for input_GS_SET_AUTO_WIDTH--></text>
+        <text name="guidanceSteering_setting_offsetWidth" text="Largura de deslocamento">
+            <!--Todo: add missing translation for guidanceSteering_setting_offsetWidth--></text>
+        <text name="guidanceSteering_strategy_abCurve" text="Curva AB">
+            <!--Todo: add missing translation for guidanceSteering_strategy_abCurve--></text>
+        <text name="guidanceSteering_strategyMethod_autoB" text="Auto B">
+            <!--Todo: add missing translation for guidanceSteering_strategyMethod_autoB--></text>
+        <text name="input_GS_SHOW_UI" text="GS: Mostrar menu de orientação de direção">
+            <!--Todo: add missing translation for input_GS_SHOW_UI--></text>
+        <text name="guidanceSteering_tooltip_enableGuidanceSteering" text="Deixe o GPS guiar a direção">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_enableGuidanceSteering--></text>
+        <text name="guidanceSteering_setting_changeOffsetWidth" text="Incremento de deslocamento">
+            <!--Todo: add missing translation for guidanceSteering_setting_changeOffsetWidth--></text>
+        <text name="guidanceSteering_setting_currentTrack" text="Trilha atual">
+            <!--Todo: add missing translation for guidanceSteering_setting_currentTrack--></text>
+        <text name="guidanceSteering_tooltip_terrainAngleSnap" text="Ajuste a direção ao ângulo do terreno">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_terrainAngleSnap--></text>
+        <text name="input_GS_AXIS_WIDTH_2" text="GS: Diminuir a largura da trilha">
+            <!--Todo: add missing translation for input_GS_AXIS_WIDTH_2--></text>
+        <text name="guidanceSteering_tooltip_cardinals" text="Defina os pontos cardeais">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_cardinals--></text>
+        <text name="guidanceSteering_tooltip_offsetIncrement" text="Defina o incremento de deslocamento para aumentar/diminuir o deslocamento">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_offsetIncrement--></text>
+        <text name="guidanceSteering_tooltip_strategyMethod" text="Determine qual método de estratégia usar">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_strategyMethod--></text>
+        <text name="guidanceSteering_tooltip_widthInCrement" text="Defina o incremento de largura para aumentar/diminuir a largura">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_widthInCrement--></text>
+        <text name="guidanceSteering_strategyMethod_aPlusHeading" text="A + Cabeceira">
+            <!--Todo: add missing translation for guidanceSteering_strategyMethod_aPlusHeading--></text>
+        <text name="input_GS_TOGGLE_TERRAIN_ANGLE_SNAP" text="GS: Ajustar ao ângulo do terreno">
+            <!--Todo: add missing translation for input_GS_TOGGLE_TERRAIN_ANGLE_SNAP--></text>
+        <text name="guidanceSteering_tooltip_trackAlreadyExists" text="Nome da trilha &#39;%s&#39; já existe!">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_trackAlreadyExists--></text>
+        <text name="guidanceSteering_setting_autoInvertOffset" text="Inversão de incremento">
+            <!--Todo: add missing translation for guidanceSteering_setting_autoInvertOffset--></text>
+        <text name="guidanceSteering_setting_resetOffsetWidth" text="Redefinir deslocamento">
+            <!--Todo: add missing translation for guidanceSteering_setting_resetOffsetWidth--></text>
+        <text name="guidanceSteering_setting_headlandDistance" text="Distância do ato da cabeceira">
+            <!--Todo: add missing translation for guidanceSteering_setting_headlandDistance--></text>
+        <text name="guidanceSteering_headland_mode_0" text="Desligado">
+            <!--Todo: add missing translation for guidanceSteering_headland_mode_0--></text>
+        <text name="guidanceSteering_ui_settings" text="Configurações de orientação">
+            <!--Todo: add missing translation for guidanceSteering_ui_settings--></text>
+        <text name="guidanceSteering_tooltip_showLines" text="Apoio visual com linhas de orientação">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_showLines--></text>
+        <text name="input_GS_ENABLE_STEERING" text="GS: Orientação de direção">
+            <!--Todo: add missing translation for input_GS_ENABLE_STEERING--></text>
+        <text name="configuration_buyableGPS_withoutGPS" text="Não">
+            <!--Todo: add missing translation for configuration_buyableGPS_withoutGPS--></text>
+        <text name="guidanceSteering_setting_enableGuidanceSteering" text="Ativar orientação de direção">
+            <!--Todo: add missing translation for guidanceSteering_setting_enableGuidanceSteering--></text>
+        <text name="input_GS_AXIS_SHIFT_2" text="GS: Shift track left">
+            <!--Todo: add missing translation for input_GS_AXIS_SHIFT_2--></text>
+        <text name="input_GS_TOGGLE" text="GS: Alternar orientação de direção">
+            <!--Todo: add missing translation for input_GS_TOGGLE--></text>
+        <text name="guidanceSteering_warning_setWidth" text="Defina primeiro uma largura de trabalho!">
+            <!--Todo: add missing translation for guidanceSteering_warning_setWidth--></text>
+        <text name="guidanceSteering_strategy_abStraight" text="Linha reta AB">
+            <!--Todo: add missing translation for guidanceSteering_strategy_abStraight--></text>
+        <text name="guidanceSteering_setting_width" text="Largura">
+            <!--Todo: add missing translation for guidanceSteering_setting_width--></text>
+        <text name="guidanceSteering_setting_headlandMode" text="Modo de cabeceira">
+            <!--Todo: add missing translation for guidanceSteering_setting_headlandMode--></text>
+        <text name="input_GS_SETPOINT" text="GS: Definir ponto de orientação">
+            <!--Todo: add missing translation for input_GS_SETPOINT--></text>
+        <text name="guidanceSteering_setting_invertOffset" text="Inverter incremento">
+            <!--Todo: add missing translation for guidanceSteering_setting_invertOffset--></text>
+        <text name="configuration_buyableGPS" text="Sistema de Posicionamento Global (GPS)">
+            <!--Todo: add missing translation for configuration_buyableGPS--></text>
+        <text name="guidanceSteering_tooltip_autoInvertOffset" text="Inverta automaticamente o deslocamento em uma curva">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_autoInvertOffset--></text>
+        <text name="guidanceSteering_setting_strategyMethod" text="Método de linha">
+            <!--Todo: add missing translation for guidanceSteering_setting_strategyMethod--></text>
+        <text name="guidanceSteering_setting_newTrack" text="Criar trilha">
+            <!--Todo: add missing translation for guidanceSteering_setting_newTrack--></text>
+        <text name="guidanceSteering_setting_strategy" text="Estratégia de linha">
+            <!--Todo: add missing translation for guidanceSteering_setting_strategy--></text>
+        <text name="guidanceSteering_tooltip_strategy" text="Determine qual estratégia usar para criar as linhas de orientação">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_strategy--></text>
+        <text name="guidanceSteering_warning_createTrackFirst" text="Por favor, crie ou carregue uma trilha primeiro!">
+            <!--Todo: add missing translation for guidanceSteering_warning_createTrackFirst--></text>
+        <text name="guidanceSteering_setting_terrainAngleSnap" text="Ângulo de encaixe de terreno">
+            <!--Todo: add missing translation for guidanceSteering_setting_terrainAngleSnap--></text>
+        <text name="guidanceSteering_warning_dropDistance" text="Dirija pelo menos 15 m para definir o ponto B. Distância percorrida atual: %.2f">
+            <!--Todo: add missing translation for guidanceSteering_warning_dropDistance--></text>
+        <text name="input_GS_TOGGLE_LINE_DISPLAY" text="GS: Alternar exibição de linha">
+            <!--Todo: add missing translation for input_GS_TOGGLE_LINE_DISPLAY--></text>
+        <text name="guidanceSteering_setting_widthIncrement" text="Incremento de largura">
+            <!--Todo: add missing translation for guidanceSteering_setting_widthIncrement--></text>
+        <text name="guidanceSteering_tooltip_headlandDistance" text="Distância em metros para agir antes de se aproximar da cabeceira.">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_headlandDistance--></text>
+        <text name="configuration_buyableGPS_withGPS" text="Sim">
+            <!--Todo: add missing translation for configuration_buyableGPS_withGPS--></text>
+        <text name="guidanceSteering_setting_saveTrack" text="Salvar trilha">
+            <!--Todo: add missing translation for guidanceSteering_setting_saveTrack--></text>
+        <text name="guidanceSteering_setting_pointB" text="Definir B">
+            <!--Todo: add missing translation for guidanceSteering_setting_pointB--></text>
+        <text name="guidanceSteering_tooltip_trackIsNotCreated" text="Falha ao salvar os dados da trilha, crie ou carregue uma trilha primeiro!">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_trackIsNotCreated--></text>
+        <text name="guidanceSteering_tooltip_width" text="Defina a largura do seu veículo">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_width--></text>
+        <text name="guidanceSteering_setting_changeWidth" text="Largura de incremento">
+            <!--Todo: add missing translation for guidanceSteering_setting_changeWidth--></text>
+        <text name="guidanceSteering_setting_cardinalConfirmText" text="Definir cardeais">
+            <!--Todo: add missing translation for guidanceSteering_setting_cardinalConfirmText--></text>
+        <text name="guidanceSteering_setting_cardinalTitle" text="Cardeal desejado (graus)">
+            <!--Todo: add missing translation for guidanceSteering_setting_cardinalTitle--></text>
+        <text name="guidanceSteering_setting_autoWidth" text="Largura automática">
+            <!--Todo: add missing translation for guidanceSteering_setting_autoWidth--></text>
+        <text name="input_GS_AXIS_WIDTH_1" text="GS: Aumentar a largura da trilha">
+            <!--Todo: add missing translation for input_GS_AXIS_WIDTH_1--></text>
+        <text name="guidanceSteering_headland_mode_3" text="Virar à direita">
+            <!--Todo: add missing translation for guidanceSteering_headland_mode_3--></text>
+        <text name="guidanceSteering_tooltip_offsetWidth" text="Defina o deslocamento do seu veículo">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_offsetWidth--></text>
+        <text name="guidanceSteering_headland_mode_2" text="Virar à esquerda">
+            <!--Todo: add missing translation for guidanceSteering_headland_mode_2--></text>
+        <text name="guidanceSteering_tooltip_headlandMode" text="Com o modo cabeceira, você pode definir a estratégia de atuação na cabeceira.">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_headlandMode--></text>
+        <text name="guidanceSteering_setting_showLines" text="Exibir linhas">
+            <!--Todo: add missing translation for guidanceSteering_setting_showLines--></text>
+        <text name="input_GS_AXIS_SHIFT_1" text="GS: Mudar de faixa para a direita">
+            <!--Todo: add missing translation for input_GS_AXIS_SHIFT_1--></text>
+        <text name="guidanceSteering_ui_strategy" text="Estratégia de orientação">
+            <!--Todo: add missing translation for guidanceSteering_ui_strategy--></text>
+        <text name="guidanceSteering_setting_removeTrack" text="Remover trilha">
+            <!--Todo: add missing translation for guidanceSteering_setting_removeTrack--></text>
+        <text name="guidanceSteering_setting_offsetIncrement" text="Incremento de deslocamento">
+            <!--Todo: add missing translation for guidanceSteering_setting_offsetIncrement--></text>
+        <text name="input_GS_TURN_STEERING" text="GS: Definir direção">
+            <!--Todo: add missing translation for input_GS_TURN_STEERING--></text>
+        <text name="guidanceSteering_strategyMethod_aPlusB" text="A+B">
+            <!--Todo: add missing translation for guidanceSteering_strategyMethod_aPlusB--></text>
+        <text name="guidanceSteering_tooltip_scopeTrackFarmId" text="Salvar a trilha com escopo para a fazenda do veículo, por padrão é acessível para todos">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_scopeTrackFarmId--></text>
+        <text name="guidanceSteering_setting_scopeTrackFarmId" text="Salvar trilha para fazenda">
+            <!--Todo: add missing translation for guidanceSteering_setting_scopeTrackFarmId--></text>
+        <text name="guidanceSteering_tooltip_offsetLines" text="Desloque a linha para obter mais distância ao solo.">
+            <!--Todo: add missing translation for guidanceSteering_tooltip_offsetLines--></text>
+        <text name="guidanceSteering_setting_offsetLines" text="Deslocamento de linha">
+            <!--Todo: add missing translation for guidanceSteering_setting_offsetLines--></text>
+    </texts>
+</l10n>
